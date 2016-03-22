@@ -51,6 +51,6 @@ public abstract class EntityUtils {
         throw new ObjectRetrievalFailureException(entityClass, entityId);
     }
 
-    public void testMethodw2s2f(){}
+    public void testMethodw(){}
 
 }
